@@ -93,19 +93,19 @@ editor:
   es: editor
 reviewers:
   en: reviewers
-  es: reviewers
+  es: revisores
 translator:
   en: translator
-  es: translator
+  es: traductor
 translation-reviewers:
   en: translation reviewers
-  es: translation reviewers
+  es: revisores traducción
 published:
   en: published
-  es: published
+  es: publicado
 modified:
   en: modified
-  es: modified
+  es: modificado
 difficulty:
   en: difficulty
-  es: difficulty
+  es: dificultad
